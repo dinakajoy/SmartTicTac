@@ -1,6 +1,6 @@
-# Tic-Tac-Toe Game with AI
+# Smart Tic-Tac-Toe Game
 
-This is a **Tic-Tac-Toe** game built with Next.js and TypeScript. It features a board where players can make moves, and an AI (using the Minimax algorithm) that can play against the user. The game also tracks the state of the game, including wins, draws, and player turns.
+This is a **Tic-Tac-Toe** game built with Next.js and TypeScript. It features a board where players can make moves, and an AI (using the Minimax algorithm) that can play against the user. The game also tracks the state of the game, including wins, draws, and player turns. The game has three play options: Play Alone, Easy, Medium and Hard (unbeatable)
 
 ## Features
 
@@ -34,8 +34,8 @@ To get started with this project, follow the steps below.
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/dinakajoy/tic-tac-toe-with-ai-player.git
-   cd tic-tac-toe-with-ai-player
+   git clone https://github.com/dinakajoy/SmartTicTac.git
+   cd SmartTicTac
    ```
 
 2. **Install dependencies**:
